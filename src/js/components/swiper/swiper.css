@@ -1,0 +1,16 @@
+.swiper-container {
+    width: 100vw;
+    height: 80vh;
+  }
+  
+  .swiper-slide {
+    background-color: #E51E3D;
+  }
+  
+  .blue {
+    background-color: #12335B;
+  }
+  
+  .red {
+    background-color: red;
+  }
